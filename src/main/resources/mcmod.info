@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moneycraft",
+  "name": "MoneyCraft",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pl10123"],
+  "credits": "The author of this mod, and the author of FlexCities for the textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
